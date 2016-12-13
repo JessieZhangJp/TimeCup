@@ -1,4 +1,4 @@
-<apex:page sidebar="false" showHeader="false" doctype="html-5.0">
+<apex:page sidebar="false" showHeader="false" standardStylesheets="false" doctype="html-5.0">
   <html lang="en"><head><style type="text/css">.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}</style>
   <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" />
   <style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}</style>
@@ -9,13 +9,13 @@
   <meta name="author" content="" />
   <title>Oxygen - One Page HTML Template | Themeum</title>
 
-  <apex:stylesheet value="{!URLFOR($Resource.Time3, 'css/bootstrap.min.css')}" />
-  <apex:stylesheet value="{!URLFOR($Resource.Time3, 'css/font-awesome.min.css')}" />
-  <apex:stylesheet value="{!URLFOR($Resource.Time3, 'css/lightbox.css')}" />
-  <apex:stylesheet value="{!URLFOR($Resource.Time3, 'css/main.css')}" />
-  <apex:stylesheet value="{!URLFOR($Resource.Time3, 'css/presets/preset1.css')}" id="css-preset" />
-  <apex:stylesheet value="{!URLFOR($Resource.Time3, 'css/responsive.css')}" />
-
+  <apex:styleSheet value="{!URLFOR($Resource.Time3, 'css/bootstrap.min.css')}" />
+  <apex:styleSheet value="{!URLFOR($Resource.Time3, 'css/font-awesome.min.css')}" />
+  <apex:styleSheet value="{!URLFOR($Resource.Time3, 'css/lightbox.css')}" />
+  <apex:styleSheet value="{!URLFOR($Resource.Time3, 'css/main.css')}" />
+  <apex:styleSheet value="{!URLFOR($Resource.Time3, 'css/presets/preset1.css')}" id="css-preset" />
+  <apex:styleSheet value="{!URLFOR($Resource.Time3, 'css/responsive.css')}" />
+  
   <!--<link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/animate.min.css" rel="stylesheet">
   <link href="css/font-awesome.min.css" rel="stylesheet">

@@ -69,20 +69,6 @@
         "type": "StaticResource",
         "mmState": "clean"
     },
-    "CommunitiesSelfRegConfirm.page": {
-        "createdById": "00528000004ingYAAQ",
-        "createdByName": "jessie zhang",
-        "createdDate": "2016-09-20T07:35:54.000Z",
-        "fileName": "unpackaged/pages/CommunitiesSelfRegConfirm.page",
-        "fullName": "CommunitiesSelfRegConfirm",
-        "id": "06628000006snpWAAQ",
-        "lastModifiedById": "00528000004ingYAAQ",
-        "lastModifiedByName": "jessie zhang",
-        "lastModifiedDate": "2016-09-20T07:35:56.000Z",
-        "manageableState": "unmanaged",
-        "type": "ApexPage",
-        "mmState": "clean"
-    },
     "AnswersHome.page": {
         "createdById": "00528000004ingYAAQ",
         "createdByName": "jessie zhang",
@@ -93,6 +79,20 @@
         "lastModifiedById": "00528000004ingYAAQ",
         "lastModifiedByName": "jessie zhang",
         "lastModifiedDate": "2016-09-16T05:56:44.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexPage",
+        "mmState": "clean"
+    },
+    "CommunitiesSelfRegConfirm.page": {
+        "createdById": "00528000004ingYAAQ",
+        "createdByName": "jessie zhang",
+        "createdDate": "2016-09-20T07:35:54.000Z",
+        "fileName": "unpackaged/pages/CommunitiesSelfRegConfirm.page",
+        "fullName": "CommunitiesSelfRegConfirm",
+        "id": "06628000006snpWAAQ",
+        "lastModifiedById": "00528000004ingYAAQ",
+        "lastModifiedByName": "jessie zhang",
+        "lastModifiedDate": "2016-09-20T07:35:56.000Z",
         "manageableState": "unmanaged",
         "type": "ApexPage",
         "mmState": "clean"
@@ -167,20 +167,6 @@
         "type": "ApexPage",
         "mmState": "clean"
     },
-    "CommunitiesLogin.page": {
-        "createdById": "00528000004ingYAAQ",
-        "createdByName": "jessie zhang",
-        "createdDate": "2016-09-20T07:35:54.000Z",
-        "fileName": "unpackaged/pages/CommunitiesLogin.page",
-        "fullName": "CommunitiesLogin",
-        "id": "06628000006snpTAAQ",
-        "lastModifiedById": "00528000004ingYAAQ",
-        "lastModifiedByName": "jessie zhang",
-        "lastModifiedDate": "2016-09-20T07:35:56.000Z",
-        "manageableState": "unmanaged",
-        "type": "ApexPage",
-        "mmState": "clean"
-    },
     "Exception.page": {
         "createdById": "00528000004ingYAAQ",
         "createdByName": "jessie zhang",
@@ -191,6 +177,20 @@
         "lastModifiedById": "00528000004ingYAAQ",
         "lastModifiedByName": "jessie zhang",
         "lastModifiedDate": "2016-09-16T05:56:47.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexPage",
+        "mmState": "clean"
+    },
+    "CommunitiesLogin.page": {
+        "createdById": "00528000004ingYAAQ",
+        "createdByName": "jessie zhang",
+        "createdDate": "2016-09-20T07:35:54.000Z",
+        "fileName": "unpackaged/pages/CommunitiesLogin.page",
+        "fullName": "CommunitiesLogin",
+        "id": "06628000006snpTAAQ",
+        "lastModifiedById": "00528000004ingYAAQ",
+        "lastModifiedByName": "jessie zhang",
+        "lastModifiedDate": "2016-09-20T07:35:56.000Z",
         "manageableState": "unmanaged",
         "type": "ApexPage",
         "mmState": "clean"
@@ -358,7 +358,7 @@
         "id": "06628000006sg5TAAQ",
         "lastModifiedById": "00528000004ingYAAQ",
         "lastModifiedByName": "jessie zhang",
-        "lastModifiedDate": "2016-12-07T15:33:26.000Z",
+        "lastModifiedDate": "2016-12-13T15:33:12.000Z",
         "manageableState": "unmanaged",
         "type": "ApexPage",
         "mmState": "clean"
@@ -545,20 +545,6 @@
         "type": "ApexClass",
         "mmState": "clean"
     },
-    "ChangePasswordControllerTest.cls": {
-        "createdById": "00528000004ingYAAQ",
-        "createdByName": "jessie zhang",
-        "createdDate": "2016-09-16T05:56:41.000Z",
-        "fileName": "unpackaged/classes/ChangePasswordControllerTest.cls",
-        "fullName": "ChangePasswordControllerTest",
-        "id": "01p2800000B5N8OAAV",
-        "lastModifiedById": "00528000004ingYAAQ",
-        "lastModifiedByName": "jessie zhang",
-        "lastModifiedDate": "2016-09-16T05:56:41.000Z",
-        "manageableState": "unmanaged",
-        "type": "ApexClass",
-        "mmState": "clean"
-    },
     "LightningForgotPasswordController.cls": {
         "createdById": "00528000004ingYAAQ",
         "createdByName": "jessie zhang",
@@ -569,6 +555,20 @@
         "lastModifiedById": "00528000004ingYAAQ",
         "lastModifiedByName": "jessie zhang",
         "lastModifiedDate": "2016-09-20T07:35:56.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    },
+    "ChangePasswordControllerTest.cls": {
+        "createdById": "00528000004ingYAAQ",
+        "createdByName": "jessie zhang",
+        "createdDate": "2016-09-16T05:56:41.000Z",
+        "fileName": "unpackaged/classes/ChangePasswordControllerTest.cls",
+        "fullName": "ChangePasswordControllerTest",
+        "id": "01p2800000B5N8OAAV",
+        "lastModifiedById": "00528000004ingYAAQ",
+        "lastModifiedByName": "jessie zhang",
+        "lastModifiedDate": "2016-09-16T05:56:41.000Z",
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
