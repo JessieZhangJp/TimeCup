@@ -1,0 +1,17 @@
+{
+    "projectName": "TimeCup",
+    "username": "meng.wang@friends.com",
+    "id": "16baa580-bc82-11e6-aa38-b3aed6a3e7ae",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap2.salesforce.com",
+    "workspace": "/Users/jessiezhang/Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
