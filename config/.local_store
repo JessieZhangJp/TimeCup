@@ -167,20 +167,6 @@
         "type": "ApexPage",
         "mmState": "clean"
     },
-    "Exception.page": {
-        "createdById": "00528000004ingYAAQ",
-        "createdByName": "jessie zhang",
-        "createdDate": "2016-09-16T05:56:44.000Z",
-        "fileName": "unpackaged/pages/Exception.page",
-        "fullName": "Exception",
-        "id": "06628000006rq4qAAA",
-        "lastModifiedById": "00528000004ingYAAQ",
-        "lastModifiedByName": "jessie zhang",
-        "lastModifiedDate": "2016-09-16T05:56:47.000Z",
-        "manageableState": "unmanaged",
-        "type": "ApexPage",
-        "mmState": "clean"
-    },
     "CommunitiesLogin.page": {
         "createdById": "00528000004ingYAAQ",
         "createdByName": "jessie zhang",
@@ -191,6 +177,20 @@
         "lastModifiedById": "00528000004ingYAAQ",
         "lastModifiedByName": "jessie zhang",
         "lastModifiedDate": "2016-09-20T07:35:56.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexPage",
+        "mmState": "clean"
+    },
+    "Exception.page": {
+        "createdById": "00528000004ingYAAQ",
+        "createdByName": "jessie zhang",
+        "createdDate": "2016-09-16T05:56:44.000Z",
+        "fileName": "unpackaged/pages/Exception.page",
+        "fullName": "Exception",
+        "id": "06628000006rq4qAAA",
+        "lastModifiedById": "00528000004ingYAAQ",
+        "lastModifiedByName": "jessie zhang",
+        "lastModifiedDate": "2016-09-16T05:56:47.000Z",
         "manageableState": "unmanaged",
         "type": "ApexPage",
         "mmState": "clean"
@@ -350,17 +350,15 @@
         "mmState": "clean"
     },
     "TimeLandingPage.page": {
-        "id": "06628000006sg5TAAQ",
-        "name": "TimeLandingPage",
-        "createdDate": "2016-09-20T01:04:43.000+0000",
         "createdById": "00528000004ingYAAQ",
-        "namespacePrefix": null,
-        "lastModifiedById": "00528000004ingYAAQ",
-        "lastModifiedDate": "2016-12-07T15:33:26.000+0000",
-        "fullName": "TimeLandingPage",
-        "fileName": "unpackaged/pages/TimeLandingPage.page",
         "createdByName": "jessie zhang",
+        "createdDate": "2016-09-20T01:04:43.000Z",
+        "fileName": "unpackaged/pages/TimeLandingPage.page",
+        "fullName": "TimeLandingPage",
+        "id": "06628000006sg5TAAQ",
+        "lastModifiedById": "00528000004ingYAAQ",
         "lastModifiedByName": "jessie zhang",
+        "lastModifiedDate": "2016-12-07T15:33:26.000Z",
         "manageableState": "unmanaged",
         "type": "ApexPage",
         "mmState": "clean"
@@ -575,20 +573,6 @@
         "type": "ApexClass",
         "mmState": "clean"
     },
-    "LightningLoginFormController.cls": {
-        "createdById": "00528000004ingYAAQ",
-        "createdByName": "jessie zhang",
-        "createdDate": "2016-09-20T07:35:56.000Z",
-        "fileName": "unpackaged/classes/LightningLoginFormController.cls",
-        "fullName": "LightningLoginFormController",
-        "id": "01p2800000BSKCeAAP",
-        "lastModifiedById": "00528000004ingYAAQ",
-        "lastModifiedByName": "jessie zhang",
-        "lastModifiedDate": "2016-09-20T07:35:56.000Z",
-        "manageableState": "unmanaged",
-        "type": "ApexClass",
-        "mmState": "clean"
-    },
     "ChangePasswordController.cls": {
         "createdById": "00528000004ingYAAQ",
         "createdByName": "jessie zhang",
@@ -599,6 +583,20 @@
         "lastModifiedById": "00528000004ingYAAQ",
         "lastModifiedByName": "jessie zhang",
         "lastModifiedDate": "2016-09-16T05:56:41.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    },
+    "LightningLoginFormController.cls": {
+        "createdById": "00528000004ingYAAQ",
+        "createdByName": "jessie zhang",
+        "createdDate": "2016-09-20T07:35:56.000Z",
+        "fileName": "unpackaged/classes/LightningLoginFormController.cls",
+        "fullName": "LightningLoginFormController",
+        "id": "01p2800000BSKCeAAP",
+        "lastModifiedById": "00528000004ingYAAQ",
+        "lastModifiedByName": "jessie zhang",
+        "lastModifiedDate": "2016-09-20T07:35:56.000Z",
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
